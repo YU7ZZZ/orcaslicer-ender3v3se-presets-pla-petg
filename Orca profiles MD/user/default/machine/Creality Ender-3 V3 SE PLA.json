@@ -1,6 +1,4 @@
 {
-    "bed_custom_model": "C:\\\\Program Files\\\\OrcaSlicer\\\\resources\\\\profiles\\\\Creality\\\\creality_ender3v3se_buildplate_model.stl",
-    "bed_custom_texture": "C:\\\\Program Files\\\\OrcaSlicer\\\\resources\\\\profiles\\\\Creality\\\\creality_ender3v3se_buildplate_texture.png",
     "change_filament_gcode": "M600",
     "deretraction_speed": [
         "35"
