@@ -17,6 +17,7 @@ Only major hardware modification I have done to the printer is full ceramic **K1
 ### Instructions
 For Winodws users, close the Orca slicer. Navigate to `%appdata%\OrcaSlicer\` in Explorer and paste the "user" folder from the preset pack over there.
 Run the Orca slicer again and you should be able to see all the presets listed as in the [screenshots section](#screenshots) below.
+Alternatively, it's possible to import all configs from the "File" menu in Orca Slicer itself, after importing the default Ender 3 V3 SE preset first.
 
 ### Other info
 
