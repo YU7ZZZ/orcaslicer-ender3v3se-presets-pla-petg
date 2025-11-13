@@ -27,18 +27,18 @@ Alternatively, it's possible to import all configs from the "File" menu in Orca 
 
 ## Hotend photo
 
-![Hotend](/Head.jpg?raw=true  "Hotend photo")
+![Hotend](/Images/Head.jpg?raw=true  "Hotend photo")
 
 ## Screenshots
 Printer presets available:
 
-![Printers](/Printers.png?raw=true "Printer presets")
+![Printers](/Images/Printers.png?raw=true "Printer presets")
 
 Filaments:
 
-![Filaments](/Filaments.png?raw=true "Filaments")
+![Filaments](/Images/Filaments.png?raw=true "Filaments")
 
 Processes:
 
-![Processes](/Processes.png?raw=true "Processes")
+![Processes](/Images/Processes.png?raw=true "Processes")
 
